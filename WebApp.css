@@ -1,0 +1,14 @@
+.background
+{
+	background-image: url("Frame.jpg");
+}
+#head
+{
+	font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+	color: cadetblue;
+}
+label
+{
+	color: white;
+}
